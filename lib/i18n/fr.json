@@ -1,0 +1,19 @@
+{
+  "site": {
+    "name": "Projet d'Éthique en IA",
+    "description": "Un groupe communautaire informel à Montréal discutant du développement éthique de l'IA"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "events": "Événements",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Bienvenue au Projet d'Éthique en IA",
+    "subtitle": "Une communauté montréalaise explorant le développement éthique de l'IA",
+    "description": "Nous sommes un groupe informel et non constitué de citoyens, chercheurs et praticiens intéressés par les implications éthiques de l'intelligence artificielle.",
+    "disclaimer": "Note : Ceci est un groupe communautaire informel, pas une entité légale ou une organisation enregistrée.",
+    "cta": "Rejoignez notre prochaine rencontre"
+  }
+}

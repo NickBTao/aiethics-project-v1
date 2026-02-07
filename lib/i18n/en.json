@@ -1,0 +1,19 @@
+{
+  "site": {
+    "name": "AI Ethics Project",
+    "description": "An informal Montreal community group discussing ethical AI development"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "events": "Events",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Welcome to the AI Ethics Project",
+    "subtitle": "A Montreal-based community exploring ethical AI development",
+    "description": "We are an informal, unincorporated group of citizens, researchers, and practitioners interested in the ethical implications of artificial intelligence.",
+    "disclaimer": "Note: This is an informal community group, not a legal entity or registered organization.",
+    "cta": "Join Our Next Meeting"
+  }
+}
